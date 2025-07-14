@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="/assets/styles/style.css">
   <script src="/assets/scripts/tailwind.js"></script>
   <script src="/assets/scripts/script.js" defer></script>
-  <meta name="description" content="A coming soon page for sky business trade website">
+  <meta name="description" content="A coming soon page for this website">
 </head>
 
 <body class="min-w-[100vw] min-h-screen grid place-items-center 
