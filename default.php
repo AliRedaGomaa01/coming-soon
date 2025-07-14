@@ -5,9 +5,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Coming Soon</title>
-  <link rel="stylesheet" href="/assets/styles/style.css">
+  <link rel="stylesheet" href="/assets/styles/style2.css">
   <script src="/assets/scripts/tailwind.js"></script>
-  <script src="/assets/scripts/script.js" defer></script>
+  <script src="/assets/scripts/script2.js" defer></script>
   <meta name="description" content="A coming soon page for this website">
 </head>
 
