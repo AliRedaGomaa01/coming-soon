@@ -5,15 +5,15 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Coming Soon</title>
-  <link rel="stylesheet" href="/assets/styles/style2.css">
-  <script src="/assets/scripts/tailwind.js"></script>
-  <script src="/assets/scripts/script2.js" defer></script>
+  <link rel="stylesheet" href="/coming-page-assets/styles/style2.css">
+  <script src="/coming-page-assets/scripts/tailwind.js"></script>
+  <script src="/coming-page-assets/scripts/script2.js" defer></script>
   <meta name="description" content="A coming soon page for this website">
 </head>
 
 <body class="min-w-[100vw] min-h-screen grid place-items-center 
-    bg-[url('/assets/imgs/bg-mb.png')] sm:bg-[url('/assets/imgs/bg-tb.png')] 
-    lg:bg-[url('/assets/imgs/bg-pc.png')] bg-no-repeat bg-cover">
+    bg-[url('/coming-page-assets/imgs/bg-mb.png')] sm:bg-[url('/coming-page-assets/imgs/bg-tb.png')] 
+    lg:bg-[url('/coming-page-assets/imgs/bg-pc.png')] bg-no-repeat bg-cover">
   <div
     class="fixed top-[5vh] right-[10vw] bg-black/90 hover:bg-black rounded-xl py-2 px-6 font-bold z-50 cursor-pointer"
     onclick="changeLanguage()" id="language-toggle">
